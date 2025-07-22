@@ -1,8 +1,8 @@
 name: Daily Python Job
 
 on:
-  schedule:
-   - cron:  '30 5,20 * * *'
+  #schedule:
+   #- cron:  '30 5,20 * * *'
    
   workflow_dispatch:     
 
